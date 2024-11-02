@@ -1,5 +1,3 @@
-
-
 start_hour = int(input("Starting time (hours): "))
 start_minute = int(input("Starting time (minutes): "))
 duration_minutes = int(input("Event duration (minutes): "))
